@@ -1,4 +1,8 @@
 _repo: Mr-World-and-Miss-Church-Member-A-Twentieth-Century-Allegory_6494
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harris, W. S. (William Shuler)
@@ -9,6 +13,8 @@ creator:
 description: '"The leading moral truths are developed in the...journey of Miss Church-Member
   upon the Broad Highway in company with...Mr. World. ...[T]he two companions come
   in contact with many of Satan''s...schemes..."--Pref.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6494#Mr-World-and-Miss-Church-Member-A-Twentieth-Century-Allegory
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
